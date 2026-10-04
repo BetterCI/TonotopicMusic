@@ -12,6 +12,12 @@
 
 **NIC4 由科利耳公司提供。相关实验前必须严格进行科利耳公司报批和医院伦理审查，并获得相应批准。平台提供不代表具体实验已经获批。**
 
+CCiMobile 官方源码与说明：[UT Dallas / CILabUTD / CCi-MOBILE](https://github.com/CILabUTD/CCi-MOBILE)。
+
+## 音乐感知背景
+
+Welcome 新增[简要文献回顾](https://betterci.github.io/TonotopicMusic/#music-review)：节奏相对保留，音高、旋律与音色仍有挑战，且个体差异明显。结合 2004、2014 与 2024 年综述，区分音乐辨认、欣赏与参与，并以原创图展示文献研究重点及本项目双重评价目标。图中的文献数量不是受试者数量或效果数据。
+
 ## 相关研究基础
 
 已加入两位发起人参与的八篇人工耳蜗论文，优先推荐《人工耳蜗中的声信号处理》和《人工耳蜗的音高感知编码机制和限制》两篇中文综述；另涵盖平台、TLE 音高编码、Applied Acoustics 的 GET 声学模型及魏朝刚参与的声调与临床研究。每篇提供来源、研究内容及与本项目的关系，见 [研究精选](PUBLICATIONS.md) 或 [Welcome 研究基础](https://betterci.github.io/TonotopicMusic/#publications)。这些既往成果不是本项目音乐体验效果的验证。

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 610" role="img" aria-labelledby="title desc">
+<title id="title">CI 音乐研究：从感知测量到音乐参与</title><desc id="desc">2024 年综述纳入131项研究，其中113项涉及人工耳蜗，91项主要关注音乐感知。本项目分别考察旋律辨认和音乐体验。</desc>
+<rect width="1200" height="610" rx="24" fill="#eef4f0"/>
+<g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#173f39">
+<text x="40" y="58" font-size="29" font-weight="bold">CI 音乐研究：从“辨认得对”到“愿意参与”</text>
+<rect x="30" y="90" width="548" height="455" rx="18" fill="white"/>
+<text x="55" y="132" font-size="22" font-weight="bold">已有文献主要研究什么？</text>
+<text x="55" y="170" font-size="17">Bleckly 等（2024）系统综述 · 文献数量</text>
+<text x="55" y="219" font-size="19">全部纳入研究</text><rect x="55" y="235" width="435" height="32" rx="6" fill="#173f39"/><text x="504" y="259" font-size="21">131</text>
+<text x="55" y="306" font-size="19">其中：涉及人工耳蜗</text><rect x="55" y="322" width="375.23" height="32" rx="6" fill="#548f80"/><text x="445" y="346" font-size="21">113</text>
+<text x="55" y="393" font-size="19">其中：主要关注音乐感知</text><rect x="55" y="409" width="302.18" height="32" rx="6" fill="#ed9b73"/><text x="373" y="433" font-size="21">91</text>
+<text x="55" y="484" font-size="17">三个范围有包含关系，不可相加。</text>
+<text x="55" y="512" font-size="17">文献计数 ≠ 受试者数量 ≠ 感知能力。</text>
+<rect x="600" y="90" width="570" height="455" rx="18" fill="#173f39"/>
+<g fill="#fff"><text x="626" y="132" font-size="22" font-weight="bold">本项目：两类问题一起问</text>
+<text x="626" y="183" font-size="21" fill="#f0aa87">旋律是否表达清楚？</text><text x="626" y="214" font-size="18">音高排序 · 上下行方向 · 轮廓辨认</text>
+<path d="M640 285 L705 252 L770 269 L835 231 L900 252 L965 282 L1030 248 L1120 225" fill="none" stroke="#f0aa87" stroke-width="4"/>
+<text x="626" y="344" font-size="21" fill="#b9dfcf">体验是否值得继续？</text><text x="626" y="377" font-size="18">舒适度 · 喜欢程度 · 再体验意愿</text>
+<text x="626" y="435" font-size="18">音乐设计 × 参数验证 × 个体反馈</text>
+<text x="626" y="477" font-size="17">分别记录两类结果，探索它们的关系。</text>
+<text x="626" y="510" font-size="17">右侧为研究设想，折线仅示意旋律轮廓。</text></g>
+<text x="40" y="580" font-size="16">来源：doi:10.1177/23312165241287391 · 原创重绘；不使用文献原图</text></g></svg>
