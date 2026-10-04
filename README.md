@@ -1,6 +1,6 @@
 # Tonotopic Music
 
-**一起探索人工耳蜗的音乐体验。** 连接音乐、听觉科学与软件设计，以单侧音高和短旋律为起点，研究电极位置、脉冲速率、幅度调制及其组合。
+**一起探索人工耳蜗的音乐体验。** 本项目面向有听力损失的成年人工耳蜗植入者，不是针对健听者的听觉研究。不同听力状况的朋友均可作为音乐、技术或研究合作伙伴参与。 连接音乐、听觉科学与软件设计，以单侧音高和短旋律为起点，研究电极位置、脉冲速率、幅度调制及其组合。
 
 🌿 **[Welcome 网页](https://betterci.github.io/TonotopicMusic/)** · [合作兴趣](https://github.com/BetterCI/TonotopicMusic/issues/new?template=collaboration.yml) · [研究想法](https://github.com/BetterCI/TonotopicMusic/issues/new?template=research-idea.yml)
 
