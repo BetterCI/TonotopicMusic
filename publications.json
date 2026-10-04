@@ -1,6 +1,6 @@
 {
   "verified_on": "2026-10-04",
-  "scope": "发起人参与署名的人工耳蜗研究精选；优先研究平台、音高与时间线索、编码验证及临床个体化。不是完整成果清单，也不是本项目效果证据。",
+  "scope": "发起人参与署名的人工耳蜗与听觉评估研究精选；涵盖研究平台、音高与时间线索、编码验证、知觉组织、听力评估及临床个体化。不是完整成果清单，也不是本项目效果证据。",
   "papers": [
     {
       "id": "meng2018review",
@@ -113,6 +113,34 @@
       "summary": "回顾人工耳蜗植入后面神经刺激的临床病例及分级管理，关注个体情况与调机、随访等临床处理。",
       "relevance": "展示团队的临床研究基础，提醒音乐体验设计需要个体化与临床协作。它不是音乐编码疗效研究，也不构成本项目参数操作指南。",
       "verification": "SAGE 原文作者、魏朝刚的龙岗医院机构、在线发表日期及摘要已核对；本次不评估全部临床统计或治疗建议。"
+    },
+    {
+      "id": "he2026zin",
+      "group": "孟庆林参与的研究",
+      "year": 2026,
+      "theme": "听觉评估 · 反相噪声中言语测试",
+      "title": "Optimizing the Chinese Zodiac-in-Noise Test With Antiphasic Stimuli for Better Hearing Loss Detection",
+      "authors": "Yanqing He, Nengheng Zheng, Huali Zhou, Qinglin Meng",
+      "citation": "Ear and Hearing, 47(4), 967–975",
+      "doi": "10.1097/AUD.0000000000001791",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/41680979/",
+      "summary": "建立反相生肖噪声测试的常模，并在不同程度与类型的听力损失人群中评估筛查表现；与同相版本相比，反相版本对较差耳听力损失的检出更敏感，尤其涉及不对称及单侧听力损失。",
+      "relevance": "提供标准化任务、重测误差和评估指标的设计经验，可启发音乐体验的可重复测量。该文是听力筛查研究，不是人工耳蜗音乐实验；反相双耳刺激也不直接纳入本项目的单侧旋律设计。",
+      "verification": "PubMed 记录核对题名、完整作者、机构、摘要与卷页；出版社提交的 Crossref 元数据交叉核对作者及 DOI。介绍依据摘要，未作全文复现。"
+    },
+    {
+      "id": "zhou2026consonants",
+      "group": "孟庆林与魏朝刚共同参与的研究",
+      "year": 2026,
+      "theme": "人工耳蜗知觉 · 混淆结构与知觉空间",
+      "title": "Perceptual organization of Mandarin consonants in cochlear implant users",
+      "authors": "Huali Zhou, Xianming Bei, Zhenyu Guo, Xianhai Zeng, Chaogang Wei, Nengheng Zheng, Juanjuan Li, Qinglin Meng",
+      "citation": "The Journal of the Acoustical Society of America, 159(6), 5410–5426",
+      "doi": "10.1121/10.0044108",
+      "source": "https://pubmed.ncbi.nlm.nih.gov/42307486/",
+      "summary": "35 名成年人工耳蜗使用者完成普通话辅音识别任务，研究结合混淆分析、聚类、多维尺度分析与特征信息传递，描述设备介导听觉下压缩而有结构的辅音知觉组织，并与助听器及既往正常听力参考数据比较。",
+      "relevance": "孟庆林与魏朝刚共同署名。为音乐任务提供方法启发：除总正确率外，还可分析哪些音高或旋律容易混淆、形成怎样的知觉空间。辅音研究结论不能直接作为音乐知觉或新编码有效性的证据。",
+      "verification": "PubMed 记录核对完整作者、联合实验室等机构、摘要、2026 年 159 卷 6 期及 5410–5426 页、DOI；作者公开成果页交叉核对题名和卷页。介绍依据摘要，未作全文复现。"
     }
   ]
 }

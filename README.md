@@ -20,7 +20,7 @@ Welcome 新增[简要文献回顾](https://betterci.github.io/TonotopicMusic/#mu
 
 ## 相关研究基础
 
-已加入两位发起人参与的八篇人工耳蜗论文，优先推荐《人工耳蜗中的声信号处理》和《人工耳蜗的音高感知编码机制和限制》两篇中文综述；另涵盖平台、TLE 音高编码、Applied Acoustics 的 GET 声学模型及魏朝刚参与的声调与临床研究。每篇提供来源、研究内容及与本项目的关系，见 [研究精选](PUBLICATIONS.md) 或 [Welcome 研究基础](https://betterci.github.io/TonotopicMusic/#publications)。这些既往成果不是本项目音乐体验效果的验证。
+已加入两位发起人参与的十篇人工耳蜗与听觉评估论文，优先推荐《人工耳蜗中的声信号处理》和《人工耳蜗的音高感知编码机制和限制》两篇中文综述；另涵盖平台、TLE 音高编码、Applied Acoustics 的 GET 声学模型、2026 年反相生肖噪声测试与辅音知觉组织，以及魏朝刚参与的声调与临床研究。每篇提供来源、研究内容及与本项目的关系，见 [研究精选](PUBLICATIONS.md) 或 [Welcome 研究基础](https://betterci.github.io/TonotopicMusic/#publications)。这些既往成果不是本项目音乐体验效果的验证。
 
 ## 我们想探索什么
 
