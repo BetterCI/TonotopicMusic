@@ -50,7 +50,7 @@ Welcome 的[国际案例](https://betterci.github.io/TonotopicMusic/#related-pro
 
 ## 页面运行
 
-直接打开 `index.html`，或在本目录运行 `python -m http.server 8000`。没有外部脚本、字体、分析跟踪或设备接口。三个滑块仅绘制数学示意，不输出刺激。
+直接打开 `index.html`，或在本目录运行 `python -m http.server 8000`。没有外部脚本、字体、分析跟踪或设备接口。三个滑块绘制数学示意，不输出刺激；动态演示经用户点击后配合同步复合音声学参考，七种模式使用同一旋律，不模拟植入者听感。
 
 GitHub Pages 通过 `.github/workflows/pages.yml` 发布。原创 SVG 在 `assets/`。参考文献与科学边界见 Welcome 页面。
 
