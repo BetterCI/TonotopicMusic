@@ -14,6 +14,8 @@
 
 CCiMobile 官方源码与说明：[UT Dallas / CILabUTD / CCi-MOBILE](https://github.com/CILabUTD/CCi-MOBILE)。
 
+孟庆林联系邮箱：[mengqinglin@scut.edu.cn](mailto:mengqinglin@scut.edu.cn)。
+
 ## 音乐感知背景
 
 Welcome 新增[简要文献回顾](https://betterci.github.io/TonotopicMusic/#music-review)：节奏相对保留，音高、旋律与音色仍有挑战，且个体差异明显。结合 2004、2014 与 2024 年综述，区分音乐辨认、欣赏与参与，并以原创图展示文献研究重点及本项目双重评价目标。图中的文献数量不是受试者数量或效果数据。
