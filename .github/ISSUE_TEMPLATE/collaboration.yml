@@ -1,0 +1,27 @@
+name: 合作兴趣 / Say hello
+description: 介绍你的兴趣，一起找到一个小任务（不是招聘）
+title: "[合作兴趣] "
+body:
+  - type: markdown
+    attributes:
+      value: "欢迎！这里只填写愿意公开的信息；请勿上传病历、MAP 或联系方式等隐私。这是寻找合作者，不是招聘或受试者报名。"
+  - type: textarea
+    id: interests
+    attributes:
+      label: 你关注什么？
+      description: 可选介绍音乐、科学或技术背景，无需真实姓名。
+    validations:
+      required: true
+  - type: textarea
+    id: first-step
+    attributes:
+      label: 想一起尝试的第一件小事
+      description: 可以是一段旋律、一个问题、一项图形或分析改进。
+  - type: dropdown
+    id: mode
+    attributes:
+      label: 交流方式（可选）
+      options:
+        - 远程交流
+        - 广州或深圳线下交流
+        - 尚不确定

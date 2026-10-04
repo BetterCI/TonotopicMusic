@@ -1,0 +1,20 @@
+name: 研究想法 / Research idea
+description: 提出音乐材料、编码或验证方法
+title: "[研究想法] "
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: 要回答什么问题？
+    validations:
+      required: true
+  - type: textarea
+    id: design
+    attributes:
+      label: 最小设计与对照
+      description: 说明音乐维度、控制参数、比较条件和判断依据。
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 依据与不确定性
+      description: 可提供公开文献或源码链接；不要上传厂商非公开资料或个人临床资料。
