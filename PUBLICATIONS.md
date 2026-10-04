@@ -6,6 +6,34 @@
 
 本次是用于合作介绍的定向精选，不是系统综述或全文复现审计。通过题名/作者检索、OpenAlex 发现、Crossref 元数据及期刊或作者机构原文核对；2007 年论文向后关联到 2004 年的速率/声调研究。选题已覆盖主要方法主题，未进行穷尽性引用网络扩展。
 
+## 2018 · 推荐先读 · 声音处理综述
+
+**人工耳蜗中的声信号处理**
+
+孟庆林. 听力学及言语疾病杂志, 26(4), 431–436（综述）.
+
+**研究内容：** 以人工耳蜗中的声音处理为主题，帮助读者从声音到电刺激的转换过程理解研究背景。
+
+**与项目的连接：** 适合作为音乐伙伴的第一篇中文入门阅读：先建立声音、处理策略与电刺激的共同语言，再讨论音乐元素如何编码。
+
+**核对范围：** 期刊文章页核对题名、作者与华南理工大学机构；作者公开成果清单核对年份、卷页及综述属性。本次仅取得期刊摘要片段，未对全文各章节作结论性转述；DOI 未在出版社核对，采用期刊链接。
+
+[原论文或摘要来源](https://jasptl.haoyicn.cn/summary/12203?eng=0&type=history)
+
+## 2021 · 推荐先读 · 音高机制综述
+
+**人工耳蜗的音高感知编码机制和限制**
+
+孟庆林、周华莉、余光正. 复旦学报（自然科学版）, 60(3), 279–287（综述）.
+
+**研究内容：** 综述正常听力者与人工耳蜗植入者的外周音高感知机制，讨论人工耳蜗音高感知研究现状及改善方向。
+
+**与项目的连接：** 直接连接本项目的核心问题：哪些刺激线索可能表达音高，以及编码与知觉有哪些限制。适合在构思旋律操控前阅读。
+
+**核对范围：** 复旦学报官方公开检索接口 ArticleSearch 返回 ArticleID=1298，核对完整作者、摘要、2021 年 60 卷 3 期及 279–287 页；官方记录 DOI 为空，未补造 DOI。
+
+[原论文或摘要来源](https://www.jns.fudan.edu.cn/#/digest?ArticleID=1298)
+
 ## 2016 · 研究平台 · 位置与 AM 音高
 
 **人工耳蜗非实时研究平台开发与验证**
@@ -34,19 +62,19 @@ Huali Zhou, Alan Kan, Guangzheng Yu, Zhenyu Guo, Nengheng Zheng, Qinglin Meng. I
 
 [原论文或摘要来源](https://research-management.mq.edu.au/ws/portalfiles/portal/212889022/212051676.pdf)
 
-## 2023 · 编码实现 · 模型验证
+## 2023 · 脉冲声学模型 · GET
 
-**Comparable Encoding, Comparable Perceptual Pattern: Acoustic and Electric Hearing**
+**Pulsatile Gaussian-Enveloped Tones (GET) for cochlear-implant simulation**
 
-Fanhui Kong, Huali Zhou, Yefei Mo, Mingyue Shi, Qinglin Meng, Nengheng Zheng. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 31, 2326–2337. [DOI](https://doi.org/10.1109/TNSRE.2023.3274604).
+Qinglin Meng, Huali Zhou, Thomas Lu, Fan-Gang Zeng. Applied Acoustics, 208, 109386（Technical note）. [DOI](https://doi.org/10.1016/j.apacoust.2023.109386).
 
-**研究内容：** 通过对应实现 ACE 的处理阶段，比较 GET/GEN 声学模型与植入者的言语表现；研究强调处理步骤一致性对知觉模式比较的重要性。
+**研究内容：** 提出用脉冲式高斯包络音模拟人工耳蜗的关键刺激特征；在所测噪声中言语任务中，模型与实际植入者表现呈现相似模式。
 
-**与项目的连接：** 支持本项目逐项核对编码与对照实现。研究涉及言语任务，不能据此把声学模型当作植入者的真实音乐听感。
+**与项目的连接：** 为脉冲参数的声学演示与离线比较提供方法背景。模型需在不同配置下继续验证，声学演示不能代表植入者的真实音乐听感。
 
-**核对范围：** PubMed/Europe PMC 摘要与 Crossref 作者、卷页及 DOI 核对；本次依据摘要，不提供全文复现审计结论。
+**核对范围：** 作者机构公开正式论文的作者、摘要、Applied Acoustics 卷号、文章号及 DOI 已核对；未将其言语结果外推为旋律疗效。
 
-[原论文或摘要来源](https://pubmed.ncbi.nlm.nih.gov/37159306/)
+[原论文或摘要来源](https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/6/480/files/2024/12/2023-Zeng-AppliedAcoustics.pdf)
 
 ## 2004 · 电刺激速率 · 声调线索
 
@@ -92,6 +120,6 @@ Zhikai Zhang, Yuxin Chen, Zhe Chen, Yuqi Xia, Keli Cao, Chaogang Wei, Yuhe Liu. 
 
 ## 阅读方式
 
-优先阅读 2016 年平台与 2022 年音高研究，再结合魏朝刚参与的 2004、2007 年时间/频谱线索研究理解个体差异。2023 年论文用于理解编码和模型的一致性；2025 年论文用于了解临床个体化基础。论文中的既往人体数据与本项目当前离线工作不同，不移用既往伦理批准，不直接采用历史刺激参数。
+音乐伙伴可先读 2018 年声音处理与 2021 年音高机制两篇中文综述，再读 2016 年平台与 2022 年音高研究；结合魏朝刚参与的 2004、2007 年时间/频谱线索研究理解个体差异。2023 年 Applied Acoustics 论文用于理解脉冲声学模型；2025 年论文用于了解临床个体化基础。论文中的既往人体数据与本项目当前离线工作不同，不移用既往伦理批准，不直接采用历史刺激参数。
 
-本文只提供简要转述与来源链接，不转载论文全文或原图。
+复旦学报官方记录未提供 DOI；2018 年综述使用期刊文章页链接，未采用本次未能在出版社核对的 DOI。本文只提供简要转述与来源链接，不转载论文全文或原图。

@@ -14,7 +14,7 @@
 
 ## 相关研究基础
 
-已加入两位发起人参与的六篇人工耳蜗论文，涵盖研究平台、TLE 音高编码、声学/电听觉模型、速率与声调识别、噪声中多线索及临床个体化。每篇包含 DOI、研究内容及与本项目的关系，见 [研究精选](PUBLICATIONS.md) 或 [Welcome 研究基础](https://betterci.github.io/TonotopicMusic/#publications)。这些既往成果不是本项目音乐体验效果的验证。
+已加入两位发起人参与的八篇人工耳蜗论文，优先推荐《人工耳蜗中的声信号处理》和《人工耳蜗的音高感知编码机制和限制》两篇中文综述；另涵盖平台、TLE 音高编码、Applied Acoustics 的 GET 声学模型及魏朝刚参与的声调与临床研究。每篇提供来源、研究内容及与本项目的关系，见 [研究精选](PUBLICATIONS.md) 或 [Welcome 研究基础](https://betterci.github.io/TonotopicMusic/#publications)。这些既往成果不是本项目音乐体验效果的验证。
 
 ## 我们想探索什么
 

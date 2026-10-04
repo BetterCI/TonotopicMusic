@@ -3,7 +3,37 @@
   "scope": "发起人参与署名的人工耳蜗研究精选；优先研究平台、音高与时间线索、编码验证及临床个体化。不是完整成果清单，也不是本项目效果证据。",
   "papers": [
     {
-      "id": "meng2016", "group": "孟庆林参与的研究", "year": 2016,
+      "id": "meng2018review",
+      "group": "孟庆林参与的研究",
+      "year": 2018,
+      "theme": "推荐先读 · 声音处理综述",
+      "title": "人工耳蜗中的声信号处理",
+      "authors": "孟庆林",
+      "citation": "听力学及言语疾病杂志, 26(4), 431–436（综述）",
+      "doi": null,
+      "source": "https://jasptl.haoyicn.cn/summary/12203?eng=0&type=history",
+      "summary": "以人工耳蜗中的声音处理为主题，帮助读者从声音到电刺激的转换过程理解研究背景。",
+      "relevance": "适合作为音乐伙伴的第一篇中文入门阅读：先建立声音、处理策略与电刺激的共同语言，再讨论音乐元素如何编码。",
+      "verification": "期刊文章页核对题名、作者与华南理工大学机构；作者公开成果清单核对年份、卷页及综述属性。本次仅取得期刊摘要片段，未对全文各章节作结论性转述；DOI 未在出版社核对，采用期刊链接。"
+    },
+    {
+      "id": "meng2021review",
+      "group": "孟庆林参与的研究",
+      "year": 2021,
+      "theme": "推荐先读 · 音高机制综述",
+      "title": "人工耳蜗的音高感知编码机制和限制",
+      "authors": "孟庆林、周华莉、余光正",
+      "citation": "复旦学报（自然科学版）, 60(3), 279–287（综述）",
+      "doi": null,
+      "source": "https://www.jns.fudan.edu.cn/#/digest?ArticleID=1298",
+      "summary": "综述正常听力者与人工耳蜗植入者的外周音高感知机制，讨论人工耳蜗音高感知研究现状及改善方向。",
+      "relevance": "直接连接本项目的核心问题：哪些刺激线索可能表达音高，以及编码与知觉有哪些限制。适合在构思旋律操控前阅读。",
+      "verification": "复旦学报官方公开检索接口 ArticleSearch 返回 ArticleID=1298，核对完整作者、摘要、2021 年 60 卷 3 期及 279–287 页；官方记录 DOI 为空，未补造 DOI。"
+    },
+    {
+      "id": "meng2016",
+      "group": "孟庆林参与的研究",
+      "year": 2016,
       "theme": "研究平台 · 位置与 AM 音高",
       "title": "人工耳蜗非实时研究平台开发与验证",
       "authors": "孟庆林、牟宏宇、平利川、陈洪斌、郑能恒、李霞、冯海泓",
@@ -15,7 +45,9 @@
       "verification": "期刊作者列表、中文摘要与卷页已核对；未将该文 AM 范围作为新实验参数建议。"
     },
     {
-      "id": "zhou2022", "group": "孟庆林参与的研究", "year": 2022,
+      "id": "zhou2022",
+      "group": "孟庆林参与的研究",
+      "year": 2022,
       "theme": "时间线索 · 音高编码",
       "title": "Pitch Perception With the Temporal Limits Encoder for Cochlear Implants",
       "authors": "Huali Zhou, Alan Kan, Guangzheng Yu, Zhenyu Guo, Nengheng Zheng, Qinglin Meng",
@@ -27,19 +59,23 @@
       "verification": "作者机构公开论文的摘要与 DOI、Crossref 作者及卷页交叉核对；没有外推到任意旋律或所有植入者。"
     },
     {
-      "id": "kong2023", "group": "孟庆林参与的研究", "year": 2023,
-      "theme": "编码实现 · 模型验证",
-      "title": "Comparable Encoding, Comparable Perceptual Pattern: Acoustic and Electric Hearing",
-      "authors": "Fanhui Kong, Huali Zhou, Yefei Mo, Mingyue Shi, Qinglin Meng, Nengheng Zheng",
-      "citation": "IEEE Transactions on Neural Systems and Rehabilitation Engineering, 31, 2326–2337",
-      "doi": "10.1109/TNSRE.2023.3274604",
-      "source": "https://pubmed.ncbi.nlm.nih.gov/37159306/",
-      "summary": "通过对应实现 ACE 的处理阶段，比较 GET/GEN 声学模型与植入者的言语表现；研究强调处理步骤一致性对知觉模式比较的重要性。",
-      "relevance": "支持本项目逐项核对编码与对照实现。研究涉及言语任务，不能据此把声学模型当作植入者的真实音乐听感。",
-      "verification": "PubMed/Europe PMC 摘要与 Crossref 作者、卷页及 DOI 核对；本次依据摘要，不提供全文复现审计结论。"
+      "id": "meng2023get",
+      "group": "孟庆林参与的研究",
+      "year": 2023,
+      "theme": "脉冲声学模型 · GET",
+      "title": "Pulsatile Gaussian-Enveloped Tones (GET) for cochlear-implant simulation",
+      "authors": "Qinglin Meng, Huali Zhou, Thomas Lu, Fan-Gang Zeng",
+      "citation": "Applied Acoustics, 208, 109386（Technical note）",
+      "doi": "10.1016/j.apacoust.2023.109386",
+      "source": "https://bpb-us-e2.wpmucdn.com/faculty.sites.uci.edu/dist/6/480/files/2024/12/2023-Zeng-AppliedAcoustics.pdf",
+      "summary": "提出用脉冲式高斯包络音模拟人工耳蜗的关键刺激特征；在所测噪声中言语任务中，模型与实际植入者表现呈现相似模式。",
+      "relevance": "为脉冲参数的声学演示与离线比较提供方法背景。模型需在不同配置下继续验证，声学演示不能代表植入者的真实音乐听感。",
+      "verification": "作者机构公开正式论文的作者、摘要、Applied Acoustics 卷号、文章号及 DOI 已核对；未将其言语结果外推为旋律疗效。"
     },
     {
-      "id": "wei2004", "group": "魏朝刚参与的研究", "year": 2004,
+      "id": "wei2004",
+      "group": "魏朝刚参与的研究",
+      "year": 2004,
       "theme": "电刺激速率 · 声调线索",
       "title": "Mandarin tone recognition in cochlear-implant subjects",
       "authors": "Chao-Gang Wei, Keli Cao, Fan-Gang Zeng",
@@ -51,7 +87,9 @@
       "verification": "作者机构公开原论文的作者、摘要及方法已查阅；Crossref 卷页与 DOI 已核对。"
     },
     {
-      "id": "wei2007", "group": "魏朝刚参与的研究", "year": 2007,
+      "id": "wei2007",
+      "group": "魏朝刚参与的研究",
+      "year": 2007,
       "theme": "心理物理 · 多线索与个体差异",
       "title": "Psychophysical Performance and Mandarin Tone Recognition in Noise by Cochlear Implant Users",
       "authors": "Chaogang Wei, Keli Cao, Xin Jin, Xiaowei Chen, Fan-Gang Zeng",
@@ -63,7 +101,9 @@
       "verification": "PMC 作者、摘要/总结及作者机构公开原论文摘要已核对；Crossref 卷页及 DOI 核对。"
     },
     {
-      "id": "zhang2025", "group": "魏朝刚参与的研究", "year": 2025,
+      "id": "zhang2025",
+      "group": "魏朝刚参与的研究",
+      "year": 2025,
       "theme": "临床经验 · 个体化管理",
       "title": "Facial Nerve Stimulation Following Cochlear Implantation: Efficacy of a Stepped Management Approach",
       "authors": "Zhikai Zhang, Yuxin Chen, Zhe Chen, Yuqi Xia, Keli Cao, Chaogang Wei, Yuhe Liu",
