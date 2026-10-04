@@ -34,6 +34,10 @@ Welcome 新增[简要文献回顾](https://betterci.github.io/TonotopicMusic/#mu
 
 客观检查用于发现时序、量化、采样及幅度混杂；效果仍需获批后的设备验证、个体校准与主观实验。尚未证明本方案带来听觉或临床改善。
 
+## 国际相关案例
+
+Welcome 的[国际案例](https://betterci.github.io/TonotopicMusic/#related-projects)介绍根特大学 CIM 的手势与直接电极音乐乐器、南安普顿 Compositions for Cochlear Implantees / IMAP 的参与式音乐工作坊，以及希腊面向 CI 使用者的作曲与配器研究。每个案例附官方来源、对本项目的启发与核对范围，供潜在合作者阅读讨论。
+
 ## 一起参与
 
 欢迎音乐创作、教育、音乐科技，以及听觉科学、临床、信号处理、交互和软件伙伴。尤其欢迎广州、深圳的朋友，也欢迎远程讨论。需求尚在形成，可以从一个问题、一段旋律或一项分析开始。
